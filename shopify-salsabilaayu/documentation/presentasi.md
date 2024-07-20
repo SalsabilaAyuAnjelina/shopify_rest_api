@@ -2,7 +2,7 @@
 
 Shopify merupakan salah satu platform e-commerce yang paling banyak digunakan. Platform ini memungkinkan kita untuk membangun web e-commerce secara mudah dan komprehensif. Secara teknis, Shopify menyediakan antarmuka grafis (frontend) untuk memudahkan pengguna awam serta antarmuka web service untuk memudahkan developer melakukan otomatisasi dan integrasi aplikasi. Web service yang disediakan pun tersedia dalam beberapa bentuk, salah satunya adalah dalam bentuk REST API yang dokumentasinya dapat diakses di REST Admin API.
 
-## Tugas Anda
+## Tugas Saya
 
 Tugas Anda adalah membuat REST API yang sesuai (mirip) dengan spesifikasi dokumentasi Shopify tersebut menggunakan bahasa pemrograman dan framework yang Anda kuasai, serta mengikuti ketentuan berikut.
 
